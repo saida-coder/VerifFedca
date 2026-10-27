@@ -298,7 +298,7 @@ Original FedFCA framework: [msellamiTN/fedfca-framework](https://github.com/msel
 > **License:** no software license was specified in the manuscript. Add a `LICENSE` file before advertising reuse rights. Third-party dataset licenses apply independently.
 
 <p align="center">
-  <img src="assets/verifedfca-mark.svg" alt="VeriFedFCA shield" width="70" /><br />
+  <img src="verifedfca-mark.svg" alt="VeriFedFCA shield" width="70" /><br />
   <b>VeriFedFCA</b><br />
   <sub>Protect · Validate · Aggregate</sub>
 </p>
