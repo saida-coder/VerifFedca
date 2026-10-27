@@ -23,8 +23,7 @@ VeriFedFCA extends the [FedFCA framework](https://doi.org/10.1007/s10586-025-057
 
 # 🌐 Global Architecture
 
-![VeriFedFCA Global Architecture](Architecture sécurisée VeriFedFCA et agrégation fédérée (1).png)
-
+![VeriFedFCA Global Architecture](<Architecture sécurisée VeriFedFCA et agrégation fédérée (1).png>)
 The architecture consists of distributed **federated providers**, a protected communication channel, and a **validation-aware aggregation server**. Only accepted contributions enter the global lattice construction process.
 
 ---
