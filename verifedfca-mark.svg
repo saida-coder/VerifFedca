@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">VeriFedFCA logo</title>
+  <desc id="desc">A shield surrounding a concept lattice and verification check mark.</desc>
+  <defs>
+    <linearGradient id="shield" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16b8c5"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e9fbff"/>
+      <stop offset="1" stop-color="#a7f3d0"/>
+    </linearGradient>
+  </defs>
+  <path d="M128 12C95 33 60 40 29 43v70c0 58 33 101 99 131 66-30 99-73 99-131V43c-31-3-66-10-99-31Z" fill="url(#shield)"/>
+  <path d="M128 29c-27 17-56 24-82 28v56c0 46 26 84 82 111 56-27 82-65 82-111V57c-26-4-55-11-82-28Z" fill="#0b1934" stroke="#a5f3fc" stroke-opacity=".7" stroke-width="3"/>
+  <g fill="none" stroke="#58d5e8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity=".95">
+    <path d="M128 61 83 104l45 45 45-45-45-43Z"/>
+    <path d="M83 104v42l45 42 45-42v-42M128 61v88M83 146h90"/>
+  </g>
+  <g fill="url(#glow)" stroke="#0b1934" stroke-width="3">
+    <circle cx="128" cy="61" r="9"/>
+    <circle cx="83" cy="104" r="9"/>
+    <circle cx="173" cy="104" r="9"/>
+    <circle cx="128" cy="149" r="9"/>
+    <circle cx="83" cy="146" r="8"/>
+    <circle cx="173" cy="146" r="8"/>
+    <circle cx="128" cy="188" r="9"/>
+  </g>
+  <path d="m101 146 19 19 37-43" fill="none" stroke="#ffffff" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m101 146 19 19 37-43" fill="none" stroke="#0eaf9c" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
