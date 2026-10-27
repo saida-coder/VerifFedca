@@ -2,7 +2,7 @@
 ## Formal Verification and Security Auditing for Federated Formal Concept Analysis
 
 <p align="center">
-  <img src="assets/verifedfca-banner.svg" alt="VeriFedFCA logo" width="900" />
+  <img src="verifedfca-mark.svg" alt="VeriFedFCA logo" width="900" />
 </p>
 
 <p align="center">
